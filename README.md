@@ -25,7 +25,6 @@
 
 ## Repository structure
 UAM_control/
-- ├─ NumericalModel/ # Vehicle/load dynamics, parameters, and simulation scripts
 - ├─ Trajectory/ # Reference/trajectory generation utilities and control demos
 - ├─ PicknDrop/ # Pick-and-drop task controllers and demos
 - └─ robotics_lib/ # Common MATLAB helpers (math, transforms, plotting, I/O)
