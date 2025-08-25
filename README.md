@@ -2,8 +2,6 @@
 
 *A MATLAB toolkit for Unmanned Aerial Manipulator (UAM) control experiments: numerical models, trajectory generation, and pick-and-drop task controllers.*
 
-> **Status:** early draft README (to be adapted to your final structure and conventions). Sections marked **TODO** need your confirmation or details.
-
 ---
 
 ## Table of contents
