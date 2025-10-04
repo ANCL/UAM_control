@@ -35,7 +35,7 @@ UAM_control/
 
 ## Requirements
 - **MATLAB** R2021a or newer  
-- Signal Processing Toolbox (optional; for filtering/plots)  
-- Control System Toolbox (optional; for some demos)
+- Signal Processing Toolbox 
+- Control System Toolbox
 
 ---
